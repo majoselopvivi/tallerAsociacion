@@ -12,6 +12,7 @@ public class Libro {
         this.disponible = true;
     }
 
+    
     public Libro(String titulo, String autor, boolean disponible){
         this.titulo = titulo;
         this.autor = autor;
